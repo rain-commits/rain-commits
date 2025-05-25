@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects involving ubuntu
 - 📫 reach me at rainneeliot13@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like rice
+- ⚡ Fun fact: I like to read 
 
 <!---
 rain-commits/rain-commits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
